@@ -38,10 +38,10 @@
     <meta property="og:image" content="https://avatars2.githubusercontent.com/u/20740441?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Ali-Alhamaly/Identify-Customer-Segments" /><meta property="og:url" content="https://github.com/Ali-Alhamaly/Identify-Customer-Segments" /><meta property="og:description" content="The data here concerns a company that performs mail-order sales in Germany. Their main question of interest is to identify facets of the population that are most likely to be purchasers of their pr..." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6Mzc2NjY1Mjg2OjlkN2ZkMjAxNWYwNmZlNzgwNzY2OWNmYjY3YjM5N2QzMzg1NGYyN2Q5YTI0ZGE4MTVlMzAzMDQ5NzgyMGM3MDI=--2e84242148bd3a1027d7148b8171167a32cd3bc7">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6Mzc2NjY1Mjg2OmRjMDU3ODkxMTI0NzkwMTljMDM1M2NmODNiMmI1MzVlOTNlMTBmNGFkZmU3NDMxNzc4MDEyZjBhZGUwOWQ0ODc=--39430498368b1ad289a09c26fc3c8bcf3f14590c">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="6A63:0654:1D427B6:31FC8F7:5CD9CBAE" data-pjax-transient>
+  <meta name="request-id" content="654D:5142:2489078:3C70842:5CD9CD9C" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="6A63:0654:1D427B6:31FC8F7:5CD9CBAE" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="20740441" /><meta name="octolytics-actor-login" content="Ali-Alhamaly" /><meta name="octolytics-actor-hash" content="1c90bce83f9658bba4222f30eb4d92f51f779b9b3f90b2087d03fb26a38bfb84" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="654D:5142:2489078:3C70842:5CD9CD9C" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="20740441" /><meta name="octolytics-actor-login" content="Ali-Alhamaly" /><meta name="octolytics-actor-hash" content="1c90bce83f9658bba4222f30eb4d92f51f779b9b3f90b2087d03fb26a38bfb84" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,7 +71,7 @@
     <meta name="user-login" content="Ali-Alhamaly">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="NzIzY2ZlNzgzZDliNTc1YTdjNWE2NjAxZDBhYmNkNzBhODBhNzM0MzNmMmY0ODZkN2QzZGM5NjA3YjAzODRkNHx7InJlbW90ZV9hZGRyZXNzIjoiMzcuMTI1LjQyLjExMyIsInJlcXVlc3RfaWQiOiI2QTYzOjA2NTQ6MUQ0MjdCNjozMUZDOEY3OjVDRDlDQkFFIiwidGltZXN0YW1wIjoxNTU3Nzc3MzM3LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="NzRjNDY3NWVkMGVlOGRlMThiMDc1NDRlNzk3Y2VhOTQ5NzkyM2ZlMjRjNzExYzI5N2ZlOTBiNzA5NTNiMDA4Ynx7InJlbW90ZV9hZGRyZXNzIjoiMzcuMTI1LjQyLjExMyIsInJlcXVlc3RfaWQiOiI2NTREOjUxNDI6MjQ4OTA3ODozQzcwODQyOjVDRDlDRDlDIiwidGltZXN0YW1wIjoxNTU3Nzc3ODQ4LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,NOTIFY_ON_BLOCK,RELATED_ISSUES">
 
@@ -158,7 +158,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=zYpXn2JsGDesOaMdpyZcgzvUnmAh4lKsrZ+VnAvTYFwcOTzfI896bbMKpFpcfejE6ApnPw6IEcOyvjL2lsakkw=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=Rg559iEtIIetAsJ1eq88MLwm0HIcycSqPX9MwjUMk3yXvRK2YI5C3bIxxTKB9Ih3b/gpLTOjh8UiXuuoqBlXsw=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -308,7 +308,7 @@
       <img class="avatar" src="https://avatars0.githubusercontent.com/u/20740441?s=40&amp;v=4" width="20" height="20" alt="@Ali-Alhamaly" />
       Ali-Alhamaly
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0j87fAOVqjTT22XDwrL0MA0QyGL4Y30JYadVMmhvVxb+PLx4gGU7rYG7rrVtNZJl6o0j/UdP2W5u/DzwSBjtIQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="+6KN8jf73a3TMfWZKG6DUTTb/G6ZRLnD+jnuXvBHUKjXoQr2tAtMNIFRPu+H6eUE00YX8SZoHaT1Yoec0DDqnw==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -401,7 +401,7 @@
     border
   " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
-    <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit " aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:20740441,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:20740441,&quot;client_id&quot;:&quot;1316759458.1547492132&quot;,&quot;originating_request_id&quot;:&quot;6A63:0654:1D427B6:31FC8F7:5CD9CBAE&quot;,&quot;originating_url&quot;:&quot;https://github.com/Ali-Alhamaly/Identify-Customer-Segments/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/Ali-Alhamaly/Identify-Customer-Segments&quot;}}" data-hydro-click-hmac="1ea2685e451b62c42a6617c2859564f7471ad023a08eee3d7de02cd234ccb476">
+    <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit " aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:20740441,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:20740441,&quot;client_id&quot;:&quot;1316759458.1547492132&quot;,&quot;originating_request_id&quot;:&quot;654D:5142:2489078:3C70842:5CD9CD9C&quot;,&quot;originating_url&quot;:&quot;https://github.com/Ali-Alhamaly/Identify-Customer-Segments/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/Ali-Alhamaly/Identify-Customer-Segments&quot;}}" data-hydro-click-hmac="4f61f52195ed8e27fb8030eb9f4a1d3fdb2d6fcfa6bcf5b9095907bbbcb420b5">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-block v-align-middle
@@ -427,7 +427,7 @@
         </div>
       </div>
 </summary>    <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="ugK9hFHAf0X+nzg5QOlc2tcCsK+I5S6Af3NKxYXnjVcRk2RVqnP6LkjbDC4ezKHKO5pZfv6ScrIEukJpgUTxGA==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="GyzfMbcy9SmGHURGC4f0S6ELb5QZazBJkfOA2TLz4EKwvQbgTIFwQjBZcFFVoglbTZOGRW8cbHvqOoh1NlCcDQ==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -547,17 +547,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-05-13T23:25:37+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-05-13T23:34:08+03:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-05-13T23:55:37+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-05-14T00:04:08+03:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-05-14T02:55:37+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-05-14T03:04:08+03:00">
             in 4 hours
           </button>
         </li>
@@ -605,7 +605,7 @@
     <div role="none" class="dropdown-divider"></div>
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="w/Phf4ruPcWEnDklh+0sfo65Zlv9qow3tHrfggobduXv8GZ7CR6sXNb88lMoakoraSSNxEKGKFC7IbZAKmzM0g==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ir6Tq0GTi5Ouny6KB+mjT+pvDWrtPkYfBQqFRbcliq+mvRSvwmMaCvz/5fyobsUaDfLm9VIS4ngKUeyHl1IwmA==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
@@ -653,10 +653,10 @@
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="4AWmEF9ozQ1bScIwdR1bQO0Nc2+TII4NDjm8zjevGtwQ2H23Q5+XT5WICx/gXTvqVf9przieIiA+OvCSjTywiA==" />      <input type="hidden" name="repository_id" value="186289543">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0OYDrfaU1ySsQ5VH30tVn2d4/FI1fxvNTACIvSNs2e8gO9gK6mONZmKCXGhKCzU134rmkp7Bt+B8A8Thmf9zuw==" />      <input type="hidden" name="repository_id" value="186289543">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:186289543,&quot;client_id&quot;:&quot;1316759458.1547492132&quot;,&quot;originating_request_id&quot;:&quot;6A63:0654:1D427B6:31FC8F7:5CD9CBAE&quot;,&quot;originating_url&quot;:&quot;https://github.com/Ali-Alhamaly/Identify-Customer-Segments/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/Ali-Alhamaly/Identify-Customer-Segments&quot;,&quot;user_id&quot;:20740441}}" data-hydro-click-hmac="6a25ced0099082f13a85f7b05c03f272273ebeb613b4285e7bc23cf3e8945663" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:186289543,&quot;client_id&quot;:&quot;1316759458.1547492132&quot;,&quot;originating_request_id&quot;:&quot;654D:5142:2489078:3C70842:5CD9CD9C&quot;,&quot;originating_url&quot;:&quot;https://github.com/Ali-Alhamaly/Identify-Customer-Segments/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/Ali-Alhamaly/Identify-Customer-Segments&quot;,&quot;user_id&quot;:20740441}}" data-hydro-click-hmac="30e035c8f3197487430981fcfc017b08e18446d2f744ecfa20f3ea4bd71dd21b" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Watch
           </span>
@@ -727,18 +727,18 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/Ali-Alhamaly/Identify-Customer-Segments/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1jYf+4l0DVcuSnTkeNMY9u+lCE/SaWmCDPW9Atq2j4raUmXq4h1AAl9o0BDJd1lj70SpB580/vSh+psOklcV6Q==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/Ali-Alhamaly/Identify-Customer-Segments/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0+ZA4my0SceyM112yf+X5sNFwVVZ5KrKjwNlHKD0EHnfgjrzB90EksMR+YJ4W9Zzw6RgHRS5PbwiDEMQ6BWKGg==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar Ali-Alhamaly/Identify-Customer-Segments" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:186289543,&quot;client_id&quot;:&quot;1316759458.1547492132&quot;,&quot;originating_request_id&quot;:&quot;6A63:0654:1D427B6:31FC8F7:5CD9CBAE&quot;,&quot;originating_url&quot;:&quot;https://github.com/Ali-Alhamaly/Identify-Customer-Segments/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/Ali-Alhamaly/Identify-Customer-Segments&quot;,&quot;user_id&quot;:20740441}}" data-hydro-click-hmac="1a8bc75a0ba18b96b286557d413b8fa644ada5c8519097d94732782d6541f7dd" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar Ali-Alhamaly/Identify-Customer-Segments" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:186289543,&quot;client_id&quot;:&quot;1316759458.1547492132&quot;,&quot;originating_request_id&quot;:&quot;654D:5142:2489078:3C70842:5CD9CD9C&quot;,&quot;originating_url&quot;:&quot;https://github.com/Ali-Alhamaly/Identify-Customer-Segments/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/Ali-Alhamaly/Identify-Customer-Segments&quot;,&quot;user_id&quot;:20740441}}" data-hydro-click-hmac="5839cdc2d52b26bb0e9a40a13f43be349ca0b52b197141ce06ac1bef51f4ca56" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
 </button>        <a class="social-count js-social-count" href="/Ali-Alhamaly/Identify-Customer-Segments/stargazers"
            aria-label="0 users starred this repository">
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/Ali-Alhamaly/Identify-Customer-Segments/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="5ry6hNEGktEy5S6KwWvJ0ositB1ICW0gfavrSAfvYeJb5Xj7s9/+Mxw5Bam8/YLnz1/r94rSCLXT1uYQ04kPYA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/Ali-Alhamaly/Identify-Customer-Segments/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="RR1rzTr4hLGY5oDbXxmiBNc2Tas0pmTUcDpK6OFM53D4RKmyWCHoU7Y6q/gij+kxk0sSQfZ9AUHeR0ewNSqJ8g==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star Ali-Alhamaly/Identify-Customer-Segments" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:186289543,&quot;client_id&quot;:&quot;1316759458.1547492132&quot;,&quot;originating_request_id&quot;:&quot;6A63:0654:1D427B6:31FC8F7:5CD9CBAE&quot;,&quot;originating_url&quot;:&quot;https://github.com/Ali-Alhamaly/Identify-Customer-Segments/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/Ali-Alhamaly/Identify-Customer-Segments&quot;,&quot;user_id&quot;:20740441}}" data-hydro-click-hmac="5713ce4ddd26b3e6468a5c6b28a9d2fd40d1d0e069802aa51a75d4c687f2877c" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star Ali-Alhamaly/Identify-Customer-Segments" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:186289543,&quot;client_id&quot;:&quot;1316759458.1547492132&quot;,&quot;originating_request_id&quot;:&quot;654D:5142:2489078:3C70842:5CD9CD9C&quot;,&quot;originating_url&quot;:&quot;https://github.com/Ali-Alhamaly/Identify-Customer-Segments/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/Ali-Alhamaly/Identify-Customer-Segments&quot;,&quot;user_id&quot;:20740441}}" data-hydro-click-hmac="f1c5c721497ae4e91d21597b8f5d58978bfc27b79ec2df3ed76d00bd81a30b6a" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
 </button>        <a class="social-count js-social-count" href="/Ali-Alhamaly/Identify-Customer-Segments/stargazers"
            aria-label="0 users starred this repository">
@@ -938,16 +938,45 @@
 
 
 
-    <include-fragment src="/Ali-Alhamaly/Identify-Customer-Segments/contributors/master/README.md" class="Box Box--condensed commit-loader">
-      <div class="Box-body bg-blue-light f6">
-        Fetching contributors&hellip;
+    
+  <div class="Box Box--condensed d-flex flex-column flex-shrink-0">
+      <div class="Box-body d-flex flex-justify-between bg-blue-light flex-column flex-md-row flex-items-start flex-md-items-center">
+        <span class="pr-md-4 f6">
+          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=20740441" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Ali-Alhamaly"><img class="avatar" src="https://avatars0.githubusercontent.com/u/20740441?s=40&amp;v=4" width="20" height="20" alt="@Ali-Alhamaly" /></a>
+          <a class="text-bold link-gray-dark lh-default v-align-middle" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=20740441" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Ali-Alhamaly">Ali-Alhamaly</a>
+            <span class="lh-default v-align-middle">
+              <a data-pjax="true" title="Create README.md" class="link-gray" href="/Ali-Alhamaly/Identify-Customer-Segments/commit/cf092a985419fc0d938c6473cf85a56de2eb98b5">Create README.md</a>
+            </span>
+        </span>
+        <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
+          <a class="pr-2 text-mono link-gray" href="/Ali-Alhamaly/Identify-Customer-Segments/commit/cf092a985419fc0d938c6473cf85a56de2eb98b5" data-pjax>cf092a9</a>
+          <relative-time datetime="2019-05-12T18:29:33Z">May 12, 2019</relative-time>
+        </span>
       </div>
 
-      <div class="Box-body d-flex flex-items-center" >
-          <img alt="" class="loader-loading mr-2" src="https://github.githubassets.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
-        <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
-      </div>
-</include-fragment>
+    <div class="Box-body d-flex flex-items-center flex-auto f6 border-bottom-0 flex-wrap" >
+      <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
+        <summary class="btn-link" aria-haspopup="dialog">
+          <span><strong>1</strong> contributor</span>
+        </summary>
+        <details-dialog
+          class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+          aria-label="Users who have contributed to this file"
+          src="/Ali-Alhamaly/Identify-Customer-Segments/contributors/master/README.md/list" preload>
+          <div class="Box-header">
+            <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+              <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+            </button>
+            <h3 class="Box-title">
+              Users who have contributed to this file
+            </h3>
+          </div>
+          <include-fragment class="octocat-spinner my-3" aria-label="Loading..."></include-fragment>
+        </details-dialog>
+      </details>
+    </div>
+  </div>
+
 
 
 
@@ -980,13 +1009,13 @@
                 <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
             </a>
 
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/Ali-Alhamaly/Identify-Customer-Segments/edit/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="jZ/ruBtKu0VXZCMcUsOV1JBRrMu7TcNfyY27HI2DgaRPjMZq6qtGPFcg5wFVnxJyy/XTCKdkpPm0v2JyqQ8hmA==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/Ali-Alhamaly/Identify-Customer-Segments/edit/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="LRTOTCFkOc8ibLkX0DYYTdMlDki1mo0KbnAUdq9SpP7vB+Oe0IXEtiIofQrXap/riIFxi6mz6qwTQs0Yi94Ewg==" />
               <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
                 aria-label="Edit this file" data-hotkey="e" data-disable-with>
                 <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
               </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Ali-Alhamaly/Identify-Customer-Segments/delete/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="GeqIrKR2Yfjyvlrz188tAMlRvb7lzpKVo0N8gAvvzZiDhiTO1F7OUoxg9V/9sfNey4RldMoDE2L3YGZfe41XzQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Ali-Alhamaly/Identify-Customer-Segments/delete/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="KGuYQ1iIgxnijocPMmM5ZYF6/YhZuPtMeOd+DmRdFuCyBzQhKKAss5xQKKMYHec7g68lQnZ1erssxGTRFD+MtQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1032,7 +1061,7 @@
 <div class="footer container-lg width-full p-responsive" role="contentinfo">
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.52188s from unicorn-6495f99779-nnbcn">GitHub</span>, Inc.</li>
+      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.39569s from unicorn-bb4dd7495-ng2n7">GitHub</span>, Inc.</li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
